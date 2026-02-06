@@ -2,8 +2,8 @@ import requests
 from datetime import datetime, timedelta
 
 # --- CONFIGURATION ---
-API_KEY = "6e7d4874d1af75c52046dd2211eda7bb"
-AGENT_ADDRESS = "0xb5494f8044079c29fd5d2f78ee270224b04fcdde"
+API_KEY = "API KEY"
+AGENT_ADDRESS = "EOA"
 DAYS_TO_SCAN = 30  
 WEI_IN_ETH = 10**18
 
